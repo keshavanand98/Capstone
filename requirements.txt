@@ -1,5 +1,5 @@
-torch
-torchvision>=0.5
+pytorch-cpu
+torchvision-cpu
 opencv-python
 scipy
 numpy
