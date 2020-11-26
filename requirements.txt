@@ -1,4 +1,4 @@
-pytorch-cpu
+torch
 torchvision-cpu
 opencv-python
 scipy
