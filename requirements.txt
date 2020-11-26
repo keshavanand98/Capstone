@@ -246,8 +246,6 @@ termcolor==1.1.0
 terminado==0.8.3
 testpath==0.4.4
 toolz==0.10.0
-torch==1.7.0
-torchvision==0.8.1
 tornado==6.0.3
 tqdm==4.42.1
 traitlets==4.3.3
