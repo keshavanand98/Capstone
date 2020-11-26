@@ -7,11 +7,10 @@
 </head>
 <body>
     <form id="img-form" action="/image" method="POST" enctype="multipart/form-data">
-        <div class="text-center">
+        <div>
             <input name="file1" role="button" type="file" accept="image/*" id="input1"
-                onchange="loadFile(event)" class="d-none">
-                <button id="browse" type="button" class="mt-2 btn btn-lg btn-warning text-white btn-style-half" onclick="document.getElementById('input1').click()">Browse</button>
-
+                onchange="loadFile(event)">
+                <button id="browse" type="button"  onclick="document.getElementById('input1').click()">Browse</button>
             <input name="lang" type="text">
             <input type="submit">
         </div>
