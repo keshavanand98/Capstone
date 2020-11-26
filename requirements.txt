@@ -8,4 +8,4 @@ Pillow
 scikit-image
 python-bidi
 flask
-
+easyocr
