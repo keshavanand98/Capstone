@@ -7,3 +7,5 @@ numpy
 Pillow
 scikit-image
 python-bidi
+flask
+
