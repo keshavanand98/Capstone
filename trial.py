@@ -1,7 +1,7 @@
 from flask import Flask, render_template, request, redirect
 import os
 import base64
-import TextGenerator as tg 
+import app.TextGenerator as tg 
 from flask import jsonify
 # Flask config
 app = Flask(__name__)
