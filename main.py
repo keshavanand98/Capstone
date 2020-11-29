@@ -55,5 +55,5 @@ def image():
         #     currency_module.get_label('./capstone_inner/static/uploads/currency/image.png'
         # )
         return jsonify(temp)
-# app.run()
+        
 
