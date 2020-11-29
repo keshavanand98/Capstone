@@ -9,3 +9,4 @@ numpy
 Pillow
 scikit-image
 python-bidi
+gunicorn
